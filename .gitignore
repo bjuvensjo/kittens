@@ -1,0 +1,16 @@
+.DS_Store
+.idea
+*.iml
+__pycache__
+**/slask*
+**/test_slask*
+README.html
+**/.pytest_cache
+**/.cache
+/build
+/dist
+**/*egg-info
+.coverage
+env/
+htmlcov/
+.coverage*

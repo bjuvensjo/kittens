@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PYTHONPATH": "${workspaceFolder}:/Users/magnus/git/kitty"
+    },
+    "python.envFile": "${workspaceFolder}/.env"
+}
